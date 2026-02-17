@@ -1,0 +1,11 @@
+{
+    "external_url": "https://thereasoncorp.io",
+    "domain_docs": "...",
+    "token_governance_note": "...",
+    "qr_links": "...",
+    "artifacts": [
+        "CODEOWNERS",
+        "SECURITY.md",
+        "LICENSE (MIT)"
+    ]
+}
